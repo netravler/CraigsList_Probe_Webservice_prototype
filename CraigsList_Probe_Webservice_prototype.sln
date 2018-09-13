@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraigsList_Probe_Webservice_prototype", "CraigsList_Probe_Webservice_prototype\CraigsList_Probe_Webservice_prototype.csproj", "{CEABC63C-3911-49F6-B203-B913F27E2565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEABC63C-3911-49F6-B203-B913F27E2565}.Debug|x86.ActiveCfg = Debug|x86
+		{CEABC63C-3911-49F6-B203-B913F27E2565}.Debug|x86.Build.0 = Debug|x86
+		{CEABC63C-3911-49F6-B203-B913F27E2565}.Release|x86.ActiveCfg = Release|x86
+		{CEABC63C-3911-49F6-B203-B913F27E2565}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
